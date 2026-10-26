@@ -1,0 +1,170 @@
+* {
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+
+}
+
+body {
+   font-family: Arial, Helvetica, sans-serif;
+   background-position: right center;
+   background-repeat: no-repeat;
+   background-size: cover;
+   min-height: 100vh;
+   text-align: center;
+}
+.picnic  {
+    background-image: url(images/image.png);
+    background-repeat: no-repeat;
+   background-size: cover;
+   background-position:  center;
+   min-height: 100vh;
+   text-align: center;
+}
+.campus {
+     background-image: url(images/WhatsApp\ Image\ 2026-10-25\ at\ 7.31.00\ PM.jpeg);
+}
+.navbar {
+    padding: 25px;
+     display: flex;
+    justify-content: center;
+    
+    
+}
+nav{
+    justify-content: space-around;
+    align-items: center;
+    padding: 15px;
+    white-space: nowrap;
+}
+
+.logo {
+   font-size: 20px;
+   color: #000;
+   padding: 15px;
+   white-space: nowrap;
+ 
+}
+
+nav h1 {
+    font-size: 20px;
+}
+
+nav a {
+    color: black;
+    margin-left: 20px;
+    text-align: center;
+    font-size: 14px;
+}
+
+.explore { 
+    background: green;
+    color: white;
+    border-radius: 25px;
+    padding: 10px 18px;
+    margin-right: 8px;
+    white-space: nowrap;
+ 
+}
+
+.tag {
+    display: inline-block;
+    background-color: #ffffff38;
+    padding: 10px 18px;
+    border-radius: 25px;
+    color: black;
+    text-align: center;
+}
+
+
+h1 {
+    font-size: 65px;
+    text-align: center;
+}
+
+p {
+    margin-bottom: 100px;
+    text-align: center;
+    font-size: 30px;
+}
+
+.discover {
+          font-size: 20;
+          margin-bottom: 50px;
+          margin-top: 20px;
+}
+
+.gallery {
+    background: green;
+    color: white;
+    border-radius: 25px;
+    padding: 10px 18px;
+    margin-right: 18px;
+}
+
+.story {
+     display: inline-block;
+    background-color: rgba(255, 255, 255, 0.445);
+    padding: 10px 18px;
+    border-radius: 25px;
+    margin-bottom: 30px;
+    color: black;
+}
+
+.Picnic {
+    background-image: url(images/image.png);
+    background-repeat: no-repeat;
+   background-size: cover;
+   min-height: 100vh;
+   text-align: center;
+    
+}
+
+.picnic-content {
+    padding: 25px 15px;
+    min-height: 100vh;
+}
+
+.picnic-content h1 {
+    font-size: 80px;
+    color: #ffb900;
+    text-shadow: 3px 3px #0756a5;
+    padding-top: 150px;
+}
+
+.picnic-content h2 {
+    font-size: 35px;
+    color: #f07835;
+    margin-top: 200px;
+
+}
+
+.picnic-content h3 {
+    font-size: 25px;
+    color: #ed655b;
+    padding-bottom: 80px;
+}
+
+.activities {
+    margin-top: 35px;
+    font-size: 35px;
+    font-weight: bold;
+    padding-bottom: 20px;
+    
+}
+
+.date {
+    background-color: #f07835;
+    color: white;
+    padding: 10px ;
+    margin: 20px auto;
+    max-width: 350px;
+    font-size: 22px;
+}
+
+.address {
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 50
+    x; 
+}
